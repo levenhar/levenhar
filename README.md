@@ -14,14 +14,18 @@
 
 I'm an engineer specializing in **navigation systems**, **sensor fusion**, and **autonomous spatial computing**. My work lives at the intersection of mathematics, physics, and real-world systems — from satellite navigation to Kalman filtering and LiDAR-based perception.
 
-```python
-levenhar = {
-    "focus":      ["GNSS/INS Integration", "Sensor Fusion", "State Estimation"],
-    "tools":      ["Python", "Jupyter", "TypeScript"],
-    "domains":    ["Navigation", "LiDAR", "Kalman Filtering", "Spatial Geometry"],
-    "currently":  "Building robust navigation & perception pipelines 🚀"
-}
-```
+<div align="center">
+
+| 🎯 Focus | 🛠️ Tools | 🌐 Domains |
+|:---:|:---:|:---:|
+| GNSS/INS Integration | Python | Navigation Systems |
+| Sensor Fusion | Jupyter | LiDAR Processing |
+| State Estimation | TypeScript | Kalman Filtering |
+| | | Spatial Geometry |
+
+🚀 **Currently:** Building robust navigation & perception pipelines
+
+</div>
 
 ---
 
@@ -75,22 +79,12 @@ levenhar = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Achievement-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com/levenhar?tab=achievements)
-[![YOLO](https://img.shields.io/badge/⚡%20YOLO-Achievement-ff6b35?style=for-the-badge&labelColor=0d1117)](https://github.com/levenhar?tab=achievements)
-
-</div>
-
----
-
 ## 📬 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-levenhar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/levenhar)
+[![Gmail](https://img.shields.io/badge/Gmail-levenhar123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levenhar123@gmail.com)
 
 </div>
 
