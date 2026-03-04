@@ -72,8 +72,9 @@ I'm an engineer specializing in **navigation systems**, **sensor fusion**, and *
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=levenhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levenhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=levenhar&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=levenhar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/levenhar)
 
 </div>
 
