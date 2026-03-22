@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=levenhar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Navigation%20%7C%20Sensor%20Fusion%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Mor%20Levenhar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Navigation%20%7C%20Sensor%20Fusion%20%7C%20Autonomous%20Systems&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=GNSS+%2B+INS+Engineer;Sensor+Fusion+Specialist;Kalman+Filter+Enthusiast;LiDAR+%26+Spatial+Systems;ML+for+GNSS+Research)](https://git.io/typing-svg)
